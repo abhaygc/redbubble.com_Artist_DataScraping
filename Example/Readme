@@ -1,0 +1,6 @@
+#Place the excelsheet containing the URLs of profile to be scraped in the very same folder as the code
+#Name the file as urls.xlsx
+#Name the column containing the URLs as "RedBubble_Artist_URL"
+
+
+#Data will be exported to data_scraped.xlsx in same folder
